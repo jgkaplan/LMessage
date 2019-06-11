@@ -1,0 +1,19 @@
+{
+  "name": "lmessage",
+  "version": "0.1.0",
+  "description": "A lattice cryptography based chat server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgkaplan/LMessage.git"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/jgkaplan/LMessage/issues"
+  },
+  "homepage": "https://github.com/jgkaplan/LMessage#readme"
+}
